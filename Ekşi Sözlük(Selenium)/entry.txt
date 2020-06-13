@@ -1,0 +1,375 @@
+1.
+bu yaştan sonra bir heves mesleğimde daha çok şeyler öğrenmek için yüksek lisansa başladığımda karşıma çıkan programlama dili. daha fortran 77 yi sindirememişken birden bire çok ağır geldi. acaba python 101 veya python for dummies tadında video görsel bilgisi olan suser arkadaşlar mevcut mudur?
+
+önce biraz dilin gereklerini öğrenip ardından rijitlik matrisi, inverse matris, transpoze falan kasıcam.
+2.
+fem için yeterli olup olmadığına karar veremediğim dildir
+3.
+bu sene bilgisayar mühendisliğinden mezun olacak olan kızımın bitirme projesinde kullandığı ve çok sık hatalar ile karşılaşıp çözüm bulmakta zorlandığı dil.
+
+bu dilden iyi anlayan ve paylaşmayı seven biri denk gelse ve takıldığı anlarda ona sorabilse ne iyi olurdu.
+4.
+yanlışlıkla aşdığım nlp dersinde ağırlıklı kullanılan dildir. nlp nin bel kemiğidir kendileri zannesersem. zira ne cs altyapım ve ne dil bilgim olmadığı için direk çakacağım. çokta kolay olmadığını en azından hiç bilmeyenler için sindirerek öğrenilmesi gerektiğini düşündüğüm dildir.
+5.
+sanılana göre kolayımsı programlama dilidir.
+6.
+udemy'de yer alan eğitimler ile ya da interaktif başka eğitim programlar ile öğrenmeyi deneyen yazarlar var ise yorumlarını beklediğim programlama dili.
+7.
+(bkz: html programlama dili)
+8.
+(bkz: numpy)
+(bkz: seaborn)
+(bkz: matplotlib)
+(bkz: scikit-learn)
+(bkz: machine learning)
+(bkz: tensorflow)
+(bkz: deep learning)
+(bkz: pyspark)
+(bkz: pysql)
+
+(bkz: data science)
+(bkz: big data)
+9.
+hem yaygınlık bakımından cok sıkıntılı demiş, hem de html'e programlama dili demiş. ya bilmiyosun konuşma bari amk, beyni yok fikri var.
+10.
+tezimde deep learning ile uğraşmaya başlayınca keras, tensorflow, pytorch ve theano gibi birbirinden basit uygulamaya dökebileceğiniz kütüphaneler ve frameworkler olunca bodozlama daldığım syntaxı basit bir proglamlama dili. udemyden kurs alıp tatmin olmayınca udacitynin beleş kurslarına dadandım. ödevleri de yaparsanız uçarsınız.
+11.
+basit anlamda öğrenmesi çokta zor olmayan programlama dili. yani youtube vs bu konu hakkında bedava eğitim video'larıyla dolu. bu işten para kazanılacak şekilde nasıl öğrenilir, ne yapılır pek bir fikrim yok onu da baştan söyleyeyim fakat ben kendimi eğlendirecek kadar öğrendim. bilgisayar ekranına çok sevdiğim bir arkadaşımın ismini yazınca 100 farklı küfürden biri çıkıyor. evet ben yazdım bu programı. hehe. teşekkürler.
+
+ayrıca hesap makinesi olarak kullanmakta mümkün. ben öyle yapmaya başladım.
+12.
+yavaş yavaş öğrenmeye başladığım programlama dilidir.
+
+türkçe kaynaklardan şimdilik güzel gidiyor fakat folium kütüphanesiyle görsel bir uygulamada takıldım.
+
+yardımlarınızı bekleriz efendim.
+13.
+yüksek lisans ve doktora yaparken veri analizi konusunda yardımcı olacağını düşündüğüm ve farklı şeyler ortaya koyabileceğimi düşündüğüm için öğrenmeyi istediğim bir programlama dili.
+
+en son udemy üzerinden photoshop dersleri almıştım ama tekrar etmeyince unutuldu hepsi tabii. 1 yıldır da her gün "ya bugün de python başlayalım artık yeter." diye sayıklıyorum içimden ama yok, başlayamadım henüz.
+
+öğrenen ve öğrenmeyi düşünen herkese kolaylıklar diliyorum.
+14.
+yakin bir zamanda uzerinde calismaya basladigim ogrendikce kendini daha cok sevdiren programlama dili.
+
+surece udemy uzerinde hic bilmeyenler icin temali bir egitimle basladim. 3 saatlik egitimi ortalama 6-7 saatte bitirdim. sonra youtube uzerinden bir baska kisa videoyla devam ettim. hic bilmedigim bir dil hakkinda bol bol okudum, kendi kendime alistirmalar yaptim. simdi yeni yeni egitimler izleyip, okuyup uzerinde calismaya devam ediyorum.
+
+basit mantikli 3 program yazdim. arkadaslar arasinda espri konusu olacak siri benzeri bir calisma da yaptim.
+
+bunlarin tamamini yaklasik 3-4 hafta once burada python hakkinda okumaya calisip nerden ne ogrenirim diye bakan biri olarak yaptim. ben yaptim, evet yaptim mesajiyla yaziyorum cunku ben de senin gibi okuyordum. sonra yazdim. simdi sen de yeni bir sekme acip benim yaptigimi yapabilirsin.
+
+print('lutfen yap.')
+15.
+yaklaşık 2 aydır video yardımı ile öğrenme aşamasındayım ve baya yol katettiğimi düşünüyorum (bkz: deep learning) alanında oldukça hızlı ve başarılı bu dili öğrendikten sonra (bkz: deep learning) alanına yöneleceğim
+16.
+(bkz: ahahahahah)
+
+edit: su başlığı pythonculara laf giydirmek için takip ediyordum. takipten çıkma vakti geldi bence. çünkü bir tane bile "python developer" yok burada. udemy'den eğitim satın alan soluğu burada aliyor.
+17.
+https://youtu.be/pqdndrvotgc?t=116
+18.
+js ile gereksiz yere kıyaslanan programlama dili.
+gelecek bize cloud based yazılımları işaret etse de arka planda çalışmak zorunda olan şeyler olacak ve python hatta risk alıp arttırıyorum java ölmeyecek olan diller.
+python machine learning alanında çok gelişebilen bir yapıya sahip.
+
+not: python dev. değilim şimdilik kendi çapımda ilerliyorum.
+19.
+bir php değildir :)
+
+not : az vurun :)
+20.
+python'da 10-15 yıl önce de varolan algoritmaları çalıştıran herkesin yapay zeka yazdığını iddia ettiği programlama dili. iş o kadar çığırından çıkmıştır ki şöyle bir deyiş ifade edilmeye başlanmıştır:
+
+--- spoiler ---
+
+ıf it is written in python, it's probably machine learning
+ıf it is written in powerpoint, it's probably aı
+--- spoiler ---
+21.
+js varken bunla uğraşan gereksizdir atın işten js developer alın olsun bitsin
+22.
+(bkz: çete misiniz lan siz)
+23.
+javascript'in gücünü kimse küçümsemiyor. ama tutup da python hakkında "yakında piyasadan silinir" demek yazılımdan hiç anlamadığınızı gösterir. çocukların bile rahatlıkla öğrenebileceği bir yapısı vardır python'un. ayrıca makine öğrenmesi alanında en kullanışlı dillerden biri python'dur. girin sololearn uygulamasına her gün binlerce insan bu dili öğrenmeye yeniden başlıyor. her gün yuzbinlerce ufak program yazıp kütüphanede paylaşıyorlar. tek başına yetersiz kalır. ama onsuz da bir çok şey eksik olacaktır. bunu öğrenen kişi java ya da c++ gibi dilleri çok daha rahat kavrar.
+24.
+python a gereksiz diyen yazılımcı(!)larıda gördük şükür.
+
+tanım: yapay zeka ve veri analizinde en çok kullanan dillerden biridir.
+25.
+python başlığında js övücülerini görünce hem şaşırdım hem de pythona olan saygım arttı. js savunanların çoğunun bilgisayar bilimleri eğitimi almadığını tahmin edebiliyorum. hayatlarında pythona ihtiyaç duymamış, pythonla yapılan bir işte çalışmamış, tabiri caizse low level insanların pythonı kötülemesi şaşırmadı tabii ki.
+26.
+an itibariyle kastırdığım dil. r ve sql ile birlikte veri bilimciliğe geçiş yapmayı planlıyorum.
+27.
+popüler bir dil olduğu doğrudur ama bir kez ruby yazanlar zehirlendiği için python yazmak zulüm gelir.
+28.
+yılanlı arka fonda mı kod yazılıyor acaba merak ettirmiştir, konuya fransızım biraz.
+29.
+hala piton kobra diyen var. (bkz: q#) ve benzerleri.
+30.
+bu programlama dilini öğrenmeyi 5 senedir istiyorum her yaz öğreneceğim diyorum ama geldiğim seviye hello world'ün bir tık ilerisi.
+umarım bu sene öğrenirim kendisini çok sevdiğimi belirtmek istiyorum.
+31.
+ismini aldigi monty python'a gonderme yapilmasinin tutorial'inda tesvik edildigi programlama dili.
+32.
+bolme islemlerini default olarak integer olarak yapan, bunu duzeltmek icin kodunuzun basina "from __future__ import division" satirini eklemeniz gereken programlama dili. buradan kendisine anandir scientific dil demek istiyorum.
+33.
+son nesil interpreted dil orneklerinden, bugun itibariyle uzun suredir bekledigimiz series 60 versiyonu yayinlandi. cekmek icin (bkz: http://www.forum.nokia.com/)
+34.
+gelmiş geçmiş en tatlı, en anlayışlı ve en 'programmer friendly'* programlama dili.
+35.
+bu leziz dili adam gibi bir interactive shell içinden kullanmanın keyfini yaşamak için: (bkz: ipython)
+36.
+(bkz: py2exe)
+37.
+programlama dili, hastasi olmamak mumkun degil, ne istiyorsaniz onu veriyor, hatali kod uretmeniz imkansiz gibi, ha hata mi yaptin gayet acik bi sekilde diyo ki "bak kerdesim bu boyle olmaz, ben de duzeltirdim ama sen duzelt hem hatani gormus ol", asmis yani.
+38.
+rahatlıkla cluster programlama da yapılabilecek dil. mpi kullanmak istiyorsanız birileri birkaç kütüphane kodlamış bile. üstelik c ya da fortran ile mpi kullanmaktan çok daha kolay bir hale getiriyor. başlangıç noktası için:
+http://datamining.anu.edu.au/~ole/pypar/
+39.
+geniş scientific kütüphanelere sahip dil:
+http://www.thinkware.se/…thinki.cgi/pythoninscience
+40.
+<sonium> someone speak python here?
+<lucky> hhhhhssssshsss
+<lucky> sssss
+<sonium> the programming language
+
+(alıntı: bash.org)
+41.
+yazılıma başlamak isteyenler için önerdiğim dildir. teferruatı pek azdır. c ile dövüşebilir mi ?kararırını halka bırakıyorum.
+42.
+çocukluk zamanlarımda bir hevesle öğrenmeye çalıştığım yazılım dili. sonrasında bu hevesim kendini visual basic ‘e bırakmıştı. daha sonraysa php ‘ye merak salmıştım.
+
+çocukken kendime yaptığım bu yatırımların ileri de benim için bir fark yaratacağı amacıyla yaptım. o zamanlar kodlamaya ilgi pek yoktu ülkemizde. etrafta kodlamayla alakalı nerde kırıntı bilgi var onları bulmaya çalışırdım. aslında beni cezbeden kısmı da o tatlı yorucu araştırma kısmıydı. yeni nesil artık daha şanslı. okullarda programlamayla alakalı dersler veriliyor. şimdiki neslin ve gelecek neslin hızına vakti zamanında yetişebilmişim.
+herşey gönül ve istek meselesi aslında. mesela ben lise de eşit ağırlık öğrencisiydim, ingilizcem çokta iyi değildi. daha doğrusu üstüne düşmemiştim. yazılımla alakalı herhangi bir mühendislik okumamış olsamda, şuan bir mühendisle her türlü kapışacak temelim olduğunu düşünüyorum.*
+43.
+open source kaynakları kullanarak yapay zeka, derin öğrenme çalıştığını zanneden insanlar yüzünden son derece önyargılı olduğum dil. bu kaynakları gerçekleştiren, arkasındaki algoritmayı kuran, kodu yazan insanlara büyük saygım var fakat github reposunu okuyup, hazır kütüphaneyi çalıştırıp, hazır dataseti kullanıp yapay zeka çalışıyorum demek bir hayli itici duruyor. image processing çalışmam gerektiği için, bu dile başlamış bulunuyorum. umarım yukarıda saydığım tiplerden biri olmam. bu entry ileride kendini güncelleyecektir.
+44.
+kağnı hızında dildir. c'de tutarsın bilgisayarı kulağından, bak piç markete gideceksin, dört tane domates, üç tane biber, iki tane yumurta, bir tane soğan, iki de ekmek alacaksın, sonra mutfağa girip domatesleri soyacaksın... diye anlatırsın.
+
+pyton'da ise "hele menemen yap da yiyek" dersin. artık önüne ne gelirse.
+45.
+ogrenmek adina bir takim icerikler edinmis olmakla beraber gun itibariyle uzerine egilmeye baslayacagim programlama dili. elimin altinda air dolayisiyla mac os ve win7 iceren masaustu var. hangisine neyi indirecegim ve ilk ogrenme metodu konusunda sozlukten yardim bekledigim hede. az cok demeyelim. ne verirsen elinle o gelir seninle.
+46.
+birileri, start-up ları sırasında yararlandıkları python kütüphanelerinden bahsetmiş;
+https://www.pythontraininghq.com/…are-startup-grow/
+47.
+şimdi efendim ilk olarak emek verince öğrenilebilecek bir programlama dilidir. okunuşuyla ilgili sorun varsa* o konuyada değindikten sonra önereceğim kaynaklara geçebiliriz. "paytın" şeklinde de okunabilir "piton" şelinde de tercih sizin. evet, değindim*.
+
+birinci_kaynak
+
+python için ayrıntılı bir kaynak. başlangıç için gereksiz yerler de var ama genel itibariyle bence çok sağlam.
+
+ikinci _kaynak
+
+bu kaynak daha sade genel kullanımlar ve örnekler var.
+
+
+
+bu da bir video ders serisi. 47 kısa videodan oluşuyor, oldukça faydalı.
+
+başlayacak olanlara kolay gelsin.
+48.
+birincisi phyton balon bir dil falan değildir. kullanım alanlarını, kütüphanelerini bilemeden sallamayın. ikincisi html yazılım dili değildir. günümüzde tek başına bi işe yaramamaktadır. css ve js bilmedikten sonra bir işinize yaramaz.
+49.
+inanılmaz kullanışlı bulmama ve inanılmaz sevmeme rağmen bu kadar popüler olması bana çok tehlikeli geliyor. çünkü insanlar python ile temeli oluşturdukdan sonra yazılımda istedikleri alana yönelip orada kullanacakları dilleri/teknolojileri öğrenmek yerine python'ın kullanıldığı mevcut alanlarda sıkışmaya başladılar. python ile neredeyse her şeyi yapabiliyorum o zaman ben bir iş bakayım dediğinde data science, web scraping işleri falan çıkıyor karşılarına. site yapayım uygulama yazayım diye bu alana yönelen insanlar karşılarında sadece data scientist ilanlarını görüyor neredeyse. birkaç django/flask ilanı da oluyor tabi ama .net/java ilanlarının yanında bunlar çok küçük bir oranda kalıyor. bir kısmı python kullanabilmek için bu alanları seçerken bir kısmı da ulan madem o kadar kullanılmıyordu ben bu dili ne bok yemeye öğrendim diye düşünüyor.
+
+en popüler, en çok yazılan, en çok araştırılan, en çok öğrenilen programlama dili olabilir. hatta çok çok büyük şirketler de bazı projelerinde kullanıyor olabilir. ama yönelmek istediğiniz alan veri bilimi, makine öğrenmesii ya da yapay zeka falan değilse, ki bu alana ilgisi olduğunu söyleyenlerin çoğu farklarını bile bilmez, python dışında da bir dünya olduğunun farkına varın. nerede ne kullanılıyor ona göre verin kararınızı. yoksa iyi bir yazılımcı olmak isterken python ile bir şeyler yazabilen kişi olarak takılıp kalırsınız.
+50.
+bahsedildigi gibi is bulma amaciniz var ise, python 2. diliniz olursa daha rahat edebilirsiniz. elbette cogunluk acisindan bahsediyoruz.
+
+ancak her programci minimum 2 dil bilirse eger, bunlardan biri kesinlikle java ya da c# olmalidir (is bulmak icin). digeri de python olabilir yapacaginiz islere gore.
+51.
+python öğrenmek veya dil mekaniklerini tekrar etmek isteyenler için python koans adında bir repository keşfettim. test driven development ile dilin her aspect'ini ele alan bir çalışma olmuş. testleri bitirmiş olmak için tüm assertionları kolaya kaçıp yapabilirsiniz ama amacınız dilin düşük seviye implementasyonlarına inecek düzeyde keşfe çıkmak ise bu repository'deki assertion'ları kurcalarken eminim kafanızda peşinden koşabileceğiniz soru işaretleri oluşur.
+52.
+(bkz: backend developer)
+iş ilanı
+(bkz: #85965545)
+
+tanım: süslü parantezsiz yazılan fakat ara ara bu özelliği ile can sıkan programlama dili.
+53.
+bi şey aşırı övülüyorsa orada sıkıntı vardır. bence de güzel dil tamam ama dezavantajı yokmuş gibi konuşmayalım lütfen. bi kere versiyon 2 ve 3 saçmalığı efsane bi handikap mesela.
+
+hipster yazılımcılar hariç python ile kurumsal seviyede projeye girişen görmedim. ekibiniz sağlamdır eyvallah sonuçta kaliteli ekip çivi yazısıyla bile proje geliştirebilir.
+
+- yazılıma başlamak istiyorum.
+- python öğren çok kolay.
+
+yarrak kolay çok afedersin, yazılımı 100 satır kod yazıp arkana dönüp bakmadan sonraki adıma geçmek sanıyorlar. bunun performansı var, debug'ı var, refactoring'i var, test'i var, sıkeylıbilitisi var, sürdürebilirliği var, third party'ler ile uyumluluğu var. var oğlu var... işallah bi gün vizyoner insanlar olursunuz da iş hayatında sizin gibi tiplerle uğraşmak zorunda kalmayız amk ömür törpüleri.
+54.
+kendisiyle kurumsal seviyede proje yapıldığını görmemiş olmak için şu sitelerden bihaber olmak gerek:
+https://www.shuup.com/…-python-and-django-websites/
+
+bir şey çok övüldüğü in kötü değildir. siz sadece popüler olana gıcık oluyorsunuz, o kadar.
+
+yazım kolaylığı, modüllerinin çokluğu ve yaygınlığı, işletim sisteminden bağımsız olarak çalışabilmesi gibi özellikleriyle öne çıkar. eğer bir prototip geliştiriyor ve o prototipin çalışması için hızlı bir şekilde yazılım üretmeniz gerekiyorsa son derece verimli bir araçtır. fikirlerinizin çalışıp çalışmayacağını kısa süre içinde görürüsünüz.
+
+benzer sebeplerden ötürü bilimsel hesaplamalarda da yaygın bir şekilde kullanılır.
+55.
+hiçbir programlama dili kötü olmadığı için pythonda kötü değil, hiçbir programlama dili iyi olmadığı için pythonda iyi değildir. şu programlama dili en iyisi diyemezsiniz. her programlama dilinin artıları olduğu gibi eksileri vardır. burada önemli olan sizin ihtiyaçlarınızı en iyi karşılayan programlama dilidir. bu iş mühendislik tabanlı bir iş takım tutar gibi programlama dili tutulmaz.
+56.
+evet yukarıda biri youtube, dropbox örneği de vermiş gerçekten bekliyodum bunu. adam youtube'u örnek veriyor, türkiyedeki tüm yazılımcıları toplayıp güçlerini aynı potada eritsen heriflerin kadro kalitesine ulaşamazsın. abaküsle de web sitesi çıkarır o adamlar.
+
+gel python ile veri entegrasyon uygulaması yaz bakalım, third party database'lerden mevcut modüllerle veri kaçırmadan performanslı data exratct et hadi, multithreading kas, güzel önyüz çıkar? yani insan böyle böyle böyle yazılım dili gibi soyut bi şeye düşman olmaya başlıyor heralde. vakit kaybısınız amk.
+57.
+daha türkçe okuduğunu anlayamayan adamların kullanmaması gereken yazılım dili.
+58.
+avrupada programlamaya başlangıç dili olarak üniversitelerde okutulan dil.
+biz türkiyede c ile başlıyoruz. sanırım phyton en kolay dillerden birisi çocuklar sıkılmasın diye yapıyorlar ama phyton ile programlama temeli öğrenmek çok zor. tüm avrupalı yetkililere sesleniyorum başlangıç dilini c yapın! çocukların geleceği ile oynamayın!
+
+ayrıca buna faytın, piton, paytın, fayton(?) diyeni gördüm. standart getirilsin bundan sonra herkes fanfinfon desin.
+
+edit: yazım hatası yahu yazım hatası. 10 mesajı görmezden geldim 11.yi gelemedim artık. evet orada phyton yazılmış, çünkü otomatik düzeltmenin esiri olmuş, tamam? dünyayı göktaşı çarpmaktan son anda kurtarmış edası ile yazım hatası düzelttirmek cidden uç zeka örnekleridir. hepinize benden yıldızlı pekiyi.
+
+(bkz: ya ben lan neyse bir şey demiyorum)
+59.
+(bkz: write only language)
+
+- python ile cop kod uretmek kolaydir, sizi uzun sure boyunca destegini vereceginiz ve duzeltmeler yapacaginiz yuksek kalitede ve okunakli bir kod tabani olusturmayi hatirlatacak sekilde zorlamaz.
+- kalabalik bir ekip birbirinden bagimsiz sekilde calisirken birbirinin ihtiyac duydugu cesitli yerleri kolayca bozabilir.
+- bir kisinin yazdigi kodu aylar sonra bir baskasi okuyamayabilir. kodu yazan bile aylar sonra okuyamayabilir.
+
+oyuncak islerde, biseyler denerken veya embedded scripting language olarak kullanilmasi fena degil ama o olayi cok bozuyor; kalabalik bir ekibin derli toplu kod yazabilmesi icin bir suru gelenek gorenek icat etmesi ve bu geleneklere uyuldugunu denetleyecek ilave yazilimlar kullanmasi gerekiyor. ne gerek var bunlara? java var, c# var, kendinize ve ekibinize eziyet etmeyin.
+
+ha ben kendim takilicam, bu yazacagim sey de zaten bi yara bandi, iyilesince cikaricam diyorsaniz bence cok da sorun yok.
+
+bu big data islerini falan nasil yapiyorlar bununla hic anlam veremiyorum. yokluktan veya dogrusunu ogrenmeye usenmekten herhalde.
+60.
+bilgisayar bilimleri okumayan ya da bu alan içerisinde yer almayan bilimadamlarının rahatlıkla kullandığı bir programlama dili. bu yüzden de gayet bilinir. adamlar bilimadamı, programcı değil. oturup java nın c nin dalgalarıyla uğraşamazlar, zamanları yok.
+
+o yüzden hızlı gelişimi yapabildikleri ve multi-platform olan python dilini seçiyorlar. gayet güzel dildir. siz python gibi interpreted bir dil ile hayvan gibi şeyler yapmaya kalkıp beceremezseniz ondan sonra gelip "ama bu dil böyle" dersiniz.
+
+hayvan gibi şey yapılmaz mı? yapılır. şahin ile safari de yapmaya kalkabilirsiniz sonuçta ama verimli olmaz.
+61.
+öğrenmesi eğlenceli programlama dili.
+62.
+script benzeri yapısı ile kullanımı pratik diyebilirim ama fazla çalışma imkanım olmadı kendileri ile. öğrenmeye yeni başlayacak birine, eğer yazılım kariyer hedefi varsa, tavsiye etmem. daha alt seviye bir dil ile başla, sonra pyton ile istediğini yaparsın.
+63.
+instagram ergenlerinin kız avlama metodu. şimdiki bazı gacılar programcilara vermeye başlayınca bunlar da programlama öğrenmek istediler. ama kafa olmayınca python'a sardılar. olay bundan ibaret.
+64.
+c++'ın alternatifi olarak microsoft'un en büyük rakibi apple tarafından piyasaya sürülmüş bir programlama dili.
+
+ios, macos gibi işletim sistemlerinin adeta bel kemiğidir.
+
+web app, desktop, mobil... ne ararsan var. adeta bir jack of all trades.
+
+bunu öğrenenin sırtı yere gelmez. junior bir python developer silikon vadisinde aylık ortalama 18 bin dolar ile işe başlıyor.
+
+yalnız oralarda giderler de çok yüksek, ev kiraları 8-10k, faturalar 1-2k geliyor. ye iç 15-16 gitti. yine de tavsiye ederim.
+65.
+keras ile neural network modeli oluşturup, tensorflow ile train edebilirsiniz. sonrasında da h5 formatına getirip stm32cube.ai ile birlikte embedded bir sistemde çalıştırabilirsiniz.
+keşke zamanım olsa da tüm bunlarla ilgili ekşideki başlıklara yazabilsem. biraz da üşeniyorum sanırım.
+66.
+puhahahha junior python developer 18k alıyomuş. amınakoyim coronadan korunacaz diye alkolün bokunu çıkarmışsınız nasıl rüyalar bunlar aq
+67.
+kardeşim 18k trump almıyor sen ne diyorsun gözünü seveyim ya.
+68.
+öz yinelemeli fonksiyonlarda cortu çeken programlama dili. en basitinden bir fibonacci serisinin 45. satırını bulmak 4300 saniye sürmemeli diye düşünüyorum.
+
+kendisinin uzmanı değilim. önerisi olan varsa yeşilimi yakabilir.
+69.
+performans isteyen javascript'e gitsin burada sikiş var.
+70.
+sanıyorum bir grup insan anlaşmış, en çok kim python övecek diye kendi aralarında yarışma yapıyor. ben de katılmak istiyorum.
+
+python bilince kızlar teklif ediyormuş. örnek bir kod parçacığı da ekleyelim de, neler yapabileceğiniz konusunda fikriniz olsun;
+
+import girls
+
+cola = girls.are_you_cola()
+71.
+"kimler kod yazıyo ya bu dille, aklım almıyor. html java ve phyton u aynı cümle içinde kullanabiliyorlar. insan gerçekten hayret ediyor." dediğim dil.
+72.
+(bkz: bir programlama dili olarak html)
+
+paint varken neden kullanıldığını anlayamadığım dil. kalemle istediğini yazıyorsun.
+73.
+yeni başladığım ve zevk almaya da başlayacağım programlama dilidir. amacım machine learning ve predictive çalışmalarımın önünü açmasıdır. bu konuda deneyimli arkadaşlar var ise ( ml konusunda ) yeşillendirmesi dileği ile.
+74.
+en fazla kullanılan yazılım dillerinden biridir.
+75.
+makina öğrenmesi ve yapay zeka kütüphaneleri ile kullanımı artan programlama dili.
+76.
+hizina laf eden arkadaslari python ile tek satirda halledebildigim
+
+(((2 ^ 1259)-1)/12837801903260418659222502180271368969172790209999210831)
+
+islemini diger diller ile ne kadar zamanda yapabildiklerini (programlama olarak) merak ediyorum...
+
+not :
+sonuc 773167999922815503519056783870437840092946565778754531388287218210411302653247453660334614786670465776047628699267994262575429675873135152829586110928899517907478161741060104653393772967866496572958988293328938186967434622739472659382931800115821173613240689430717878315134195428476211003219559563991706555536742379457450577 bu arada, python'un bunu benim bilgisayarimda hesaplamasi 1 sn bile surmuyor....
+77.
+diğer dillerde yine tek satırda yapılacak olan bir işlem ile karşılaştırılmaya çalışılan yılannn.
+78.
+makine dili ile programlama dillerini bir birine karıştıranları göstermiş hede, hüde, hüppe.
+ayrıca bknz
+imla
+ımm yeah
+79.
+https://benchmarksgame.alioth.debian.org/…2=python3
+80.
+1 haftadır öğrenmeye çalıştığım programlama dili. ağırdan ağırdan sindire sindire öğreniyorum. input kullanarak vücut kitle indeksini ölçebileceğim bir kod yazmaya çalıştım ve başarılı oldum. basit dahi olsa kod yazabilmek güzel hissettirdi.
+81.
+türkiye'de de dünyada da e-ticaret sitelerinin çoğu backendde bu dili kullanmaz. hepsiburada, n11, boyner, trendyol, beymen, lcw ve defacto doğrudan bildiklerim ve hiçbiri python kullanmıyor. hatta orta seviyedeki şirketlere e-ticaret hizmeti sunan outsource yazılım firmalarından da python kullanana denk gelmedim hiç. çok merak eden de linkedin'den iş ilanlarına bakarak bu sitelerin hangi teknolojileri kullandıklarını öğrenebilir.
+
+.net teknolojileri türkiye'de e-ticaret sitelerinde backend'i domine ediyor, arkasında da java geliyor. tabi ürün önerme mevzularında python kütüphaneleri kullanılıyordur ama bu o sitelerin python üzerinde çalıştığı ve kaldırdığı trafiğin python'ın başarısı olduğu anlamına gelmez.
+82.
+hangi e-ticaret sistemi python ile yazılmış amk django ile e-ticaret sistemi kodlayacağıma gider pascal ile masaüstü eticaret kodlarım.
+83.
+microservices mimarisinde planlanmış bir projede geliştirme yapıyorsanız (birçok büyük proje şu an bu şekilde çalışıyor) bırakın her ekip istediği dili seçsin, herkes kolayına geldiği veya alıştığı dilde geliştirsin. diller arası sidik yarıştırma işi artık son bulmalı.
+
+önemli olan bir parçayı yazarken o parçayı enine boyuna düşünerek geliştirme yapmak. yeni mezun arkadaşlar hiç bir hata kontrolü olmadan, log olmadan, anlamlı bir hata dönmeden saçma sapan işler yapıyorlar kusura bakmasınlar. happy path testing yapıp bırakıyorlar, şimdi rencide etmek istemiyorum ama birkaç tane çok büyük e-ticaret sitesinin web servisleri halkalı çöplüğünden beter. ister java ile yazın, ister go ile yazın yeterki düzgün ve hata kontrollü iş çıkartın. bakın hatasız demiyorum, hatasız değil, hatanın ne olduğunu gören, bildiren, kayıt altına alan bir yapınız olsun.
+
+edit : yok efendim php'den hızlı, c#'ın g*tüne koyar takla attırır, java'nın ipini çekti bitirdi.
+saçma sapan laflar bunlar. iyi bir programcı herhangi biriyle çok şahane işler çıkartır, şapka çıkartıp izlersiniz.
+1 tane döngü ile yapılacak bir işi 2 tane döngü ile yaptığınız bir ortamda yazılım dilinin makine tarafından daha hızlı yorumlanabiliyor olması bir anlam ifade etmiyor. dilleri karşılaştırıp kağıt üzerindeki veriler ile sidik yarıştırmak yerine kendinizi geliştirmeye odaklanın derim.
+84.
+dinozor php'ci ve microsoft'un maaşlı c# trollerinin ağlama duvarına dönmüş başlık.
+
+devriniz doldu akıllı olun yoksa dev-python patlar beyninizde
+
+bunlar daha iyi günleriniz
+85.
+bir python’cu olarak büyük pazaryerleri python ile yapılıyor söylemine katılmıyorum. devir artık devops devri. hiç bir büyük proje tek dile bağlı yapılmıyor. mağazayı farklı, sepeti farklı, ödeme sayfasını farklı dille yapabilirsiniz. ana çatı .net, sepet redis, ürün öner python ile yapılıyor genelde. sadece angular kullanarak yapılan bir kaç site de gördüm fakat satış hacmi düşük sitelerdi genelde. sadece python ile yapbilirsiniz tabiki. django kütüphanesi bunun için fakat çok pratik değil.
+python’u vazgeçilmez yapan özelliği machine learning alanındaki kıvraklığı.
+86.
+(bkz: #44073942)
+87.
+bundan 10 sene önce bilgisayar programcılığı okurken, geleceğin dili olacağı, okullarda öğretilmediği fakat kendi çabalarımızla mutlaka öğrenmemizin tavsiye edildiği programlama dili. aradan 10 sene geçti hala python'un patlama yapacağı, geleceğin en çok kullanılan sistemi olacağı söyleniyor. bi gelemedi o gelecek arkadaş!
+88.
+3. versiyondan itibaren geriye dönük uyumluluk olmayacağının kararı ve bu karar üzerine dönen tartışmalar yaklaşık 5 yıldır var. bu kararın verilmesinin nedeni de dilin erken dönem tasarımlarında bolca güdüklük olması ve bir noktadan sonra, "sıfırdan yazalım anasını satayım" denmesidir. o nedenle hani geriye doğru uyumluluk diye sormak biraz abes zira zaten kendilerinin bizde backward compatibility var diye bir iddiaları yok.
+89.
+güzel bir ide programı arayanlara canopy'yi öneririrm.
+https://www.enthought.com/products/canopy/
+90.
+cacık diyenin aklından diyemesem bile yazılım bilgisinden şüphe ettiğim dildir.
+
+- google'ın ciddi bir kısmının yazılımında kullanılmasından, gıs yazılımlarına kadar geniş alanı ve özellikleri desteklemesi
+- scripting dilinin hızı ve kolay yazılırlığına sahip olup, aynı zamanda nesne tabanlı programlama'yı tamamen desteklemesi
+- hemen her işletim sisteminde çatır çatır çalışması.
+
+sadece ilk anda aklıma gelen özelliklerdir.
+91.
+production'da en etkileyici kullanım örneklerinden biri eve online. oyun logic'i stackless python üzerinden işliyordu. hala öyle galiba. özellikle mmorpg'de sadece tek sunucuda tüm oyuncuları oynatan bu modelin python'la scale etmesi büyük bir başarı örneği benim nezdimde.
+
+f#'ı lightweight syntax ile kullanmaya başladığımdan beri indent'i blok belirleyicisi olan her tür dile sempatim var. python'a da uzaktan sempati besliyorum. genel olarak sade ve ifade gücü yüksek (expressive) her dili seviyorum. burada olmak çok güzel. yarışmacı arkadaşlara başarılar dilerim.
+
+(bkz: stackless python)
+92.
+dangalak adama 2 haftada oop yazdırır bu dil. ondan sonra o dangalak adam da gelir bu dili kral ilan eder. google hep bundan kullanıyo olm, hele nasa üfff mekik gönderdiler python'lu falan diye gaza gelir. kendi biliyo ya bunu, oop'a kadar geldi ya 10 günde, o dilden kralı yoktur.
+
+oysa her şeyi yapabildiği iddia edilen bu dille herhangi bir şeyi yapmak, diğer dillere göre çok daha zordur. haddini bilmez çokyönlülüğün sonucu olsa gerek.
+
+ben de o dangalaktım bi aralar, sonra geçti ama. her dilin güçlü ve zayıf yönleri olduğunu, hepsinin farklı alanlarda kullanılması gerektiğini, ve hepsinin haddini bilmesi gerektiğini öğrendim.
+93.
+seviyesizce tartışılan dil. coder'ın da fanatiği pismiş ha... her an biri pitonunu masaya vurabilir.
+94.
+cok iyi bir "programlamaya baslangic dili" oldugu konusunda hemfikirim. programlama ogretmek icin ideal bir dil olabilir.
+95.
+itiraf etmeliyim bu dil hakkında bilgim yok ama yaptığım yüzeysel incelemelerde çok sempatik gelen bir dil olduğunu gördüm, her okuduğum kaynakta istisnasız programlamaya başlamak için en iyi alternatif olduğu yazıyordu. bu dilin sempatik yapısı nedeni ile kısa sürede çok daha az satır kod yazarak direkt sonuca yönelik şeyler yazabilmenizden kaynaklı bir tavsiye ama ben sadece bu nedenle bu dilin başlangıç için ideal olabileceğini düşünmüyorum.
+
+belki biraz eski kafa olmamdan kaynaklanıyordur ama c++, c#, java hatta javascript, typscript gibi diller birini öğrendiğinizde diğerine çok rahat geçiş yapabildiğiniz diller buna karşın bu dillerde düşünmeye alışmış biri için python, ruby gibi yeni başlayanlar için söz dizimi daha kolay gelen diller, çok daha zor ve anlamsız geliyor bunu da itiraf etmek lazım. dolayısı ile eğer bu dili başlangıçta öğrenseydim buradan c# vb. c söz dizimine yakın bir dile geçiş yapmak ve bu dillerde düşünmem daha zor olacaktı.
+
+ne yapmak istediğinize göre değişiyor doğru dil, tek bir dil bilmek yetmiyor bu nedenle her programcının tool setinde oması gereken dillerden biri gibi geldi bana. ruby yada python arasında seçim yapmak için epey döküman okudum ve son kararım python öğrenmekten yana oldu ama bu kararı almamda dilin yanı sıra django frameworkunun de katkısı büyük oldu.
+
+c64 basic dili ile başladığım serüvende visual basic, pascal, delphi, borland c++ ve en son c# ile devam eden halkaya en son bu dili katmaya karar verdim.
